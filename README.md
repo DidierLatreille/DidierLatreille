@@ -4,6 +4,6 @@
 
 - Actualmente me encuentro enfocado en la rama de programación Front End.
 
-- Lenguajes que manejo: C, C++, Haskell, Prolog, HTML, CSS, JS, REACT.
+- Lenguajes que manejo: C, C++, Haskell, Prolog, HTML, CSS, JS, REACT, SQL.
 
 - Email: didier.latreille@gmail.com
