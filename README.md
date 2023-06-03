@@ -22,4 +22,4 @@
 
 <h3>Projects</h3>
 
-<a href="www.eulogy.com.ar">Eulogy -> Art Gallery</a>
+<a href="https://eulogy.com.ar/">Eulogy -> Art Gallery</a>
