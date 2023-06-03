@@ -1,6 +1,6 @@
 <h1>Didier Latreille</h1>
 
-![image](https://github.com/DidierLatreille/DidierLatreille/assets/62679664/e244aeb2-14d4-4747-a12e-cb1e2568f56a)
+![image](https://github.com/DidierLatreille/DidierLatreille/assets/62679664/e244aeb2-14d4-4747-a12e-cb1e2568f56a) ES
 
 - 👋 Soy estudiante de Ingenieria en Sistemas en la UTN-FRBA
 
@@ -10,7 +10,7 @@
 
 - Email: didier.latreille@gmail.com
 
-![image](https://github.com/DidierLatreille/DidierLatreille/assets/62679664/057f6253-be3b-4c1d-912e-7b1077d67fc2)
+![image](https://github.com/DidierLatreille/DidierLatreille/assets/62679664/057f6253-be3b-4c1d-912e-7b1077d67fc2) EN
 
 - 👋 I'm an currently studying engineering in information systems in UTN-FRBA
 
