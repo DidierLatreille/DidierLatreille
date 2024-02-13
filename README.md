@@ -22,4 +22,4 @@
 
 <h3>Projects</h3>
 
-<a href="https://eulogy.com.ar/" target="_blank">Eulogy</a> -> Art Gallery Portfolio. Co-developed & designed with <a href="https://github.com/Santiago-scordia" target="_blank">Santiago Scordia</a>
+<a href="https://eulogy.netlify.app/" target="_blank">Eulogy</a> -> Art Gallery Portfolio. Co-developed & designed with <a href="https://github.com/Santiago-scordia" target="_blank">Santiago Scordia</a>
