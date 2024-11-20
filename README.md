@@ -6,7 +6,7 @@
 
 - Actualmente me encuentro enfocado en la rama de programación Front End.
 
-- Lenguajes que manejo: C, C++, Haskell, Prolog, HTML, CSS, JS, REACT, SQL.
+- Lenguajes que manejo: HTML, CSS, JS, VUE JS / NUXT, REACT / NEXT, Bootstrap, Pinia, Cypress, GraphQL, Node JS, SQL.
 
 - Email: didier.latreille@gmail.com
 
@@ -16,7 +16,7 @@
 
 - Focusing mostly in Front-End programming.
 
-- Languages and technologies: C, C++, Haskell, Prolog, HTML, CSS, JS, REACT, SQL.
+- Languages and technologies: HTML, CSS, JS, VUE JS / NUXT, REACT / NEXT, Bootstrap, Pinia, Cypress, GraphQL, Node JS, SQL.
 
 - Email: didier.latreille@gmail.com
 
